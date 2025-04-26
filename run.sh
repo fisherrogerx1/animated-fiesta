@@ -37,4 +37,4 @@ cd ..
 echo "Setting up environment..."
 mkdir -p /home/jovyan
 touch /home/jovyan/.bashrc
-
+./run_rl_swarm.sh
